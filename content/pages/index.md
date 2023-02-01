@@ -5,7 +5,7 @@ sections:
   - heading: DC Dyke March
     type: HeroSection
     subheading: >
-      Friday, June 10, 2022
+      Friday, June 9, 2023
     buttons:
       - label: Donate
         url: "https://venmo.com/code?user_id=1579042956378112278&created=1649017976"
